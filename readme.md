@@ -12,3 +12,6 @@ python rag_pipeline.py
 
 # 5. Create sample ch aplication using team details and try to see if this answering question is working or not.
 python rag_chat.py
+
+# 6. added calculator functionality and enable rag to analyzed inout and select proper models
+python router_pipeline.py
