@@ -1,3 +1,6 @@
+#Goal is Create learn LangChain Framework by building local RAG database, Chat appplication and multiple models selection using Router
+User--> Enter prompt --> Router --> RAG --> LLM --> Output
+MCP INCLUSION FOLLOW
 # 1. Create virtual environment named '.venv'
 python3 -m venv .venv
 
